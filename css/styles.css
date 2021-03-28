@@ -735,7 +735,6 @@ ol {
 }
 .footer-form {
   display: flex;
-  justify-content: start;
 }
 .footer-form-email {
   width: 358px;
